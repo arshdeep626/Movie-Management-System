@@ -1,0 +1,10 @@
+curtain.call.moviedetails$8
+null
+curtain.call.moviedetails$6
+curtain.call.moviedetails
+curtain.call.moviedetails$7
+curtain.call.moviedetails$4
+curtain.call.moviedetails$5
+curtain.call.moviedetails$2
+curtain.call.moviedetails$3
+curtain.call.moviedetails$1
